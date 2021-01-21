@@ -1,11 +1,25 @@
-<!-- #### React Router Fix
+<h1 align="center">
+  Cocktails Recipes
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+## 💻 Project
 
-#### CRA Fix
+- Learning ReactJS.
 
-```
+- A simple web application, implementing React Router and fetching external API's from [https://www.thecocktaildb.com/api.php](https://www.thecocktaildb.com/).
 
-"build": "CI= react-scripts build",
+- Hooks: UseState, UseEffect, useContext, useCallback,
 
-``` -->
+<p>&nbsp;&nbsp;</p>
+
+---
+
+## 🔥 Check it out!
+
+</br>
+
+- [https://cocktails-react-app.netlify.app/](https://cocktails-react-app.netlify.app/)
+<p align="center">
+  <img src="src/images/cocktails-gif.gif" />
+</p>
+
+<p>&nbsp;&nbsp;</p>
